@@ -1,5 +1,6 @@
+#!/usr/bin/env python
 
-from . import Expense
+import Expense
 import matplotlib.pyplot as plt
 import collections
 
